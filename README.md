@@ -1,5 +1,5 @@
 # AlgoPig-1th
-알고피그 1기
+**알고피그 1기**
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/b30c814f-cfd6-4119-b22e-4c9d9c777b00" />
 ## 운영 방법
 - 1주일동안 각자 유형에 맞는 문제들을 '백준 단계별로 풀어보기' 등에서 각자 풀어봅니다.
@@ -45,3 +45,5 @@
 - [코드포스 [COD]](https://codeforces.com/)
 - [해커랭크 [HAC]](https://www.hackerrank.com/)
 - [리트코드 (LEE)](https://leetcode.com/)
+## 이전 스터디 Repo
+- https://github.com/upsk1/Yeahhhhh
