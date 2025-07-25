@@ -5,7 +5,7 @@ import java.math.*;
 import java.io.*;
 
 
-public class CodeTree2 {
+public class Main {
 
     static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     static StringTokenizer st;
