@@ -19,4 +19,4 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.16|프로그래머스|[미로 탈출 명령어]([https://www.acmicpc.net/problem/1167](https://school.programmers.co.kr/learn/courses/30/lessons/150365))|
+|**N주차** |2025.09.16|프로그래머스|[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
