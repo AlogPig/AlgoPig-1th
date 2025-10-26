@@ -138,4 +138,4 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.21|백준|[큰 수 만들기](https://www.acmicpc.net/problem/16496)|
+|**N주차** |2025.10.28|프로그래머스|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|
