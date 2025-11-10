@@ -167,14 +167,14 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.04|백준|[발전소](https://www.acmicpc.net/problem/1102)|
+|**N주차** |2025.11.11|백준|[발전소](https://www.acmicpc.net/problem/1102)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.04|프로그래머스|[수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)|
+|**N주차** |2025.11.11|프로그래머스|[금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|
 
 
 
@@ -182,4 +182,4 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.04|프로그래머스|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
+|**N주차** |2025.11.11|프로그래머스|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
