@@ -182,4 +182,4 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.11|프로그래머스|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
+|**N주차** |2025.11.11|프로그래머스|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|
