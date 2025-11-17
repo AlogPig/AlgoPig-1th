@@ -196,7 +196,7 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.18|프로그래머스|[금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|
+|**N주차** |2025.11.18|백준|[컨닝](https://www.acmicpc.net/problem/1014)|
 
 
 
