@@ -6,22 +6,21 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.16|프로그래머스|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|
+|**10주차** |2025.09.16|프로그래머스|[표현 가능한 이진트리](https://school.programmers.co.kr/learn/courses/30/lessons/150367)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.16|프로그래머스|[코딩테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)|
-
+|**10주차** |2025.09.16|프로그래머스|[코딩테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.16|프로그래머스|[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
+|**10주차** |2025.09.16|프로그래머스|[미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)|
 
 ## 0923
 
@@ -29,22 +28,21 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.23|프로그래머스|[표병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)|
+|**11주차** |2025.09.23|프로그래머스|[표병합](https://school.programmers.co.kr/learn/courses/30/lessons/150366)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.23|프로그래머스|[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)|
-
+|**11주차** |2025.09.23|프로그래머스|[n + 1 카드게임](https://school.programmers.co.kr/learn/courses/30/lessons/258707)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.09.23|프로그래머스|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|
+|**11주차** |2025.09.23|프로그래머스|[사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)|
 
 
 ## 1002
@@ -53,22 +51,21 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.02|프로그래머스|[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|
+|**12주차** |2025.10.02|프로그래머스|[등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.02|프로그래머스|[행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|
-
+|**12주차** |2025.10.02|프로그래머스|[행렬과 연산](https://school.programmers.co.kr/learn/courses/30/lessons/118670)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.02|프로그래머스|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|
+|**12주차** |2025.10.02|프로그래머스|[자물쇠와 열쇠](https://school.programmers.co.kr/learn/courses/30/lessons/60059)|
 
 ## 1010
 
@@ -76,22 +73,21 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.10|프로그래머스|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
+|**13주차** |2025.10.10|프로그래머스|[파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.10|프로그래머스|[1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364)|
-
+|**13주차** |2025.10.10|프로그래머스|[1,2,3 떨어트리기](https://school.programmers.co.kr/learn/courses/30/lessons/150364)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.10|프로그래머스|[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)|
+|**13주차** |2025.10.10|프로그래머스|[도넛과 막대 그래프](https://school.programmers.co.kr/learn/courses/30/lessons/258711)|
 
 
 # 자유문제
@@ -101,107 +97,102 @@
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.21|프로그래머스|[봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)|
+|**14주차** |2025.10.21|프로그래머스|[봉인된 주문](https://school.programmers.co.kr/learn/courses/30/lessons/389481)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.21|백준|[격자판 채우기](https://www.acmicpc.net/problem/1648)|
-
+|**14주차** |2025.10.21|백준|[격자판 채우기](https://www.acmicpc.net/problem/1648)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.21|백준|[큰 수 만들기](https://www.acmicpc.net/problem/16496)|
+|**14주차** |2025.10.21|백준|[큰 수 만들기](https://www.acmicpc.net/problem/16496)|
 
 ## 1028
 <h3>헌우</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.28|프로그래머스|[홀짝 트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)|
+|**15주차** |2025.10.28|프로그래머스|[홀짝 트리](https://school.programmers.co.kr/learn/courses/30/lessons/388354)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.28|백준|[롤러코스터](https://www.acmicpc.net/problem/2873)|
-
+|**15주차** |2025.10.28|백준|[롤러코스터](https://www.acmicpc.net/problem/2873)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.10.28|프로그래머스|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|
+|**15주차** |2025.10.28|프로그래머스|[광고 삽입](https://school.programmers.co.kr/learn/courses/30/lessons/72414)|
 
 ## 1104
 <h3>헌우</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.04|프로그래머스|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|
+|**16주차** |2025.11.04|프로그래머스|[완전범죄](https://school.programmers.co.kr/learn/courses/30/lessons/389480)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.04|프로그래머스|[수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)|
-
+|**16주차** |2025.11.04|프로그래머스|[수레 움직이기](https://school.programmers.co.kr/learn/courses/30/lessons/250134)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.04|프로그래머스|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
+|**16주차** |2025.11.04|프로그래머스|[다단계 칫솔 판매](https://school.programmers.co.kr/learn/courses/30/lessons/77486)|
 
 ## 1111
 <h3>헌우</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.11|백준|[발전소](https://www.acmicpc.net/problem/1102)|
+|**17주차** |2025.11.11|백준|[발전소](https://www.acmicpc.net/problem/1102)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.11|프로그래머스|[금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|
-
+|**17주차** |2025.11.11|프로그래머스|[금과 은 운반하기](https://school.programmers.co.kr/learn/courses/30/lessons/86053)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.11|프로그래머스|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|
+|**17주차** |2025.11.11|프로그래머스|[비밀 코드 해독](https://school.programmers.co.kr/learn/courses/30/lessons/388352)|
 
 ## 1118
 <h3>헌우</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.18|프로그래머스|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|
+|**18주차** |2025.11.18|프로그래머스|[경주로 건설](https://school.programmers.co.kr/learn/courses/30/lessons/67259)|
 
 
 <h3>형선</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.18|백준|[컨닝](https://www.acmicpc.net/problem/1014)|
-
+|**18주차** |2025.11.18|백준|[컨닝](https://www.acmicpc.net/problem/1014)|
 
 
 <h3>영호</h3>
 
 |주차|날짜|출처|문제|소요 시간|
 |--|--|--|--|--|
-|**N주차** |2025.11.18|백준|[육각수](https://www.acmicpc.net/problem/1229)|
+|**18주차** |2025.11.18|백준|[육각수](https://www.acmicpc.net/problem/1229)|
