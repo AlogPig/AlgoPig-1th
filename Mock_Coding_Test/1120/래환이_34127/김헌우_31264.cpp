@@ -1,64 +1,90 @@
-#include <iostream>
-#include <vector>
-#include <algorithm>
+#include <bits/stdc++.h>
 
 using namespace std;
-
+#define First ios::sync_with_stdio(0); cin.tie(0);
 typedef long long ll;
 
-int N, M;
-ll A;
-vector<int> v;
+int N;
+vector<ll> height;
+vector<ll> ans;
 
-// 초기 점수가 skill일 때, M발을 쏘아 A점 이상을 만들 수 있는지 확인
-bool check(ll skill) {
-    ll current_skill = skill; // 현재 사격 실력 (타겟 선정용)
-    ll earned_score = 0;      // 순수하게 획득한 점수 (목표 달성 확인용)
+int main(){
+    First
+    cin >> N;
+    height.assign(N, 0);
+    ans.assign(N, 0);
 
-    for(int i = 0; i < M; i++) {
-        auto it = upper_bound(v.begin(), v.end(), current_skill);
-
-        if (it == v.begin()) {
-            return false;
-        }
-
-        int target = *(it - 1);
-
-        current_skill += target; // 실력 증가
-        earned_score += target;  // 점수 획득
-
-        if (earned_score >= A) return true; // 획득 점수가 목표 A 이상이면 성공
+    ll sum_origin = 0;
+    for(int i=0; i<N; i++){
+        cin >> height[i];
+        sum_origin += height[i];
     }
 
-    return earned_score >= A;
-}
+    ll prev = 0; //최소 이 값보단 더 커야한다
+    for(int i=0; i<N; i++){
 
-int main() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-
-    cin >> N >> M >> A;
-    v.resize(N);
-    for (int i = 0; i < N; i++) {
-        cin >> v[i];
-    }
-    sort(v.begin(), v.end());
-
-
-    ll srt = 0, ed = 100001;
-    ll ans = ed;
-
-    while (srt <= ed) {
-        ll mid = (srt + ed) / 2;
-
-        if (check(mid)) {
-            ans = mid;
-            ed = mid - 1;
+        ll curr = prev+1;
+        if((i + 1) % 2 == 0) {
+            if (abs(curr - height[i]) % 2 != 0) {
+                curr++;
+            }
         } else {
-            srt = mid + 1;
+            if (curr == height[i]) {
+            } else {
+                if (abs(curr - height[i]) % 2 == 0) {
+                    curr++;
+                }
+            }
+        }
+        ans[i] = curr;
+        prev = curr;
+    }
+
+    ll sum_current = 0;
+    for(int i=0; i<N; i++) sum_current += ans[i];
+
+    ll remain = sum_origin - sum_current;
+
+    if (remain < 0) {
+        cout << "NO" << "\n";
+        return 0;
+    }
+
+    for(int i=N-1; i>=0; i--){
+        if (remain <= 0) break;
+
+        ll limit;
+        if (i == N-1) limit = 2e18;
+        else limit = ans[i+1] - 1;
+
+        ll can_add = min(remain, limit - ans[i]);
+        if (can_add <= 0) continue;
+
+        if ((i + 1) % 2 == 0) {
+            if (can_add % 2 != 0) can_add--;
+        } else {
+            if (ans[i] == height[i]) {
+                if (can_add % 2 == 0) can_add--;
+            } else {
+                if (can_add % 2 != 0) can_add--;
+            }
+        }
+
+        if (can_add > 0) {
+            ans[i] += can_add;
+            remain -= can_add;
         }
     }
 
-    cout << ans << "\n";
+    if (remain == 0 || remain == 1) {
+        cout << "YES" << "\n";
+        for(int i=0; i<N; i++){
+            cout << ans[i] - height[i] << (i == N-1 ? "" : " ");
+        }
+        cout << "\n";
+    } else {
+        cout << "NO" << "\n";
+    }
+
     return 0;
 }
